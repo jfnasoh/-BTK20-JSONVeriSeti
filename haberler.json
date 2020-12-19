@@ -1,0 +1,138 @@
+[
+{
+"status": "ok",
+"totalResults": 10,
+-"articles": [
+-{
+-"source": {
+"id": "web-pex",
+"name": "WeBpex News"
+},
+"author": "BBC News",
+"title": "Yerli ve Milli Üretim Zırhlı Amfibi Hücum Aracı (ZAHA)",
+"description": "Yerli ve milli Zırhlı Amfibi Hücum Aracı (ZAHA), Deniz Kuvvetleri Komutanlığı’nın harekât konsepti ve görev ihtiyaçları göz önüne alınarak FNSS tarafından tasarlanmıştır. Yerli ve milli gururla devam.",
+"url": "https://webpex.net/yerli-ve-milli-uretim-zirhli-amfibi-hucum-araci-zaha/",
+"urlToImage": "https://webpex.net/wp-content/uploads/2020/10/unnamed-2-325x288.jpg",
+"publishedAt": "2020-12-19T14:22:36.4164679Z",
+"content": "Viruses do mutate - so the development that there is a Covid-19 variant should not come as a complete surprise.\r\nThere is nothing to suggest it causes more serious illness or would impact the ability… [+583 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Epstein ex-associate Jean-Luc Brunel placed under formal investigation",
+"description": "Modelling agent Jean-Luc Brunel is accused of rape and sexual harassment by French authorities.",
+"url": "http://www.bbc.co.uk/news/world-europe-55376323",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/218C/production/_108288580__108269765_hi055775058-1.jpg",
+"publishedAt": "2020-12-19T12:07:22.1631929Z",
+"content": "image captionEpstein was awaiting trial on sex-trafficking charges when he was found dead in his cell last year\r\nA former associate of deceased US financier and sex offender Jeffrey Epstein has been … [+2851 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Caliphate: NY Times loses awards for Islamic State podcast over false reporting",
+"description": "The paper admits its blockbuster podcast about Islamic State group failed to meet editorial standards.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-55375277",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D18E/production/_116164635_hi063567769.jpg",
+"publishedAt": "2020-12-19T10:22:23.7246251Z",
+"content": "The New York Times has returned an award after it found falsehoods and discrepancies in its podcast on the Islamic State group.\r\nAfter a two-month investigation, the newspaper said the podcast, Calip… [+2840 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "US cyber-attack: Russia 'clearly' behind SolarWinds operation, says Pompeo",
+"description": "The US secretary of state says Moscow is \"clearly\" responsible for a hack targeting government agencies.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-55374945",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1597E/production/_116164488_gettyimages-1086354712.jpg",
+"publishedAt": "2020-12-19T09:07:21.2914896Z",
+"content": "image copyrightGetty Images\r\nimage captionMike Pompeo said investigators were still \"unpacking precisely what [the cyber-attack] is\" (file photo)\r\nUS Secretary of State Mike Pompeo has blamed Russia … [+3640 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "737 Max: Boeing 'inappropriately coached' pilots in test after crashes",
+"description": "US Senate investigators find problems with tests conducted in the wake of two deadly crashes.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-55372499",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5F74/production/_116163442_hi064404561-1.jpg",
+"publishedAt": "2020-12-19T06:22:20.4115136Z",
+"content": "image captionThe Boeing 737 Max was grounded in March 2019 following two deadly crashes\r\nUS Senate investigators say that Boeing officials \"inappropriately coached\" test pilots during efforts to rece… [+2496 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Why is North Korean potato propaganda back?",
+"description": "Why is North Korea promoting the humble spud in movies, culinary shows, and news reports?",
+"url": "http://www.bbc.co.uk/news/world-asia-55348575",
+"urlToImage": "https://ichef.bbci.co.uk/images/ic/400xn/p091xrkf.jpg",
+"publishedAt": "2020-12-19T04:52:23.2376764Z",
+"content": "Potatoes were the star of North Korean food propaganda in the 1990s when the country faced a severe famine. As the economic situation improved, the humble spud retreated from North Korean media. \r\nTh… [+225 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Covid: Italy latest European country to order Christmas lockdown",
+"description": "Italy will be under \"red-zone\" restrictions for much of the holiday period, the prime minister says.",
+"url": "http://www.bbc.co.uk/news/world-europe-55372491",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D90/production/_116163304_gettyimages-1229907922.jpg",
+"publishedAt": "2020-12-19T04:52:18.7544169Z",
+"content": "image copyrightGetty Images\r\nimage captionItaly has recorded the highest Covid death toll in Europe\r\nItaly has ordered a nationwide lockdown over much of the Christmas and New Year period in an effor… [+3415 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Brexit: UK-EU trade talks enter critical 48-hour period",
+"description": "The EU says the \"moment of truth\" has arrived as disagreements with the UK over fishing rights continue.",
+"url": "http://www.bbc.co.uk/news/uk-politics-55364470",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16D69/production/_116154539_mediaitem116154538.jpg",
+"publishedAt": "2020-12-19T01:37:17.2012695Z",
+"content": "The UK and EU continue to negotiate as talks on a post-Brexit trade deal enter another critical 48-hour period.\r\nTalks in Brussels are understood to be focused on how many years it will take to phase… [+4506 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "Covid: US approves Moderna as second vaccine",
+"description": "The Food and Drug Administration gives the green light for releasing millions of doses.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-55370999",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7DD8/production/_116161223_mediaitem116161222.jpg",
+"publishedAt": "2020-12-19T00:52:18.64804Z",
+"content": "image captionSix million doses could be ready to ship\r\nModerna has been approved by the US government as the country's second Covid-19 vaccine, clearing the way for millions of doses to be released.\r… [+3700 chars]"
+},
+-{
+-"source": {
+"id": "bbc-news",
+"name": "BBC News"
+},
+"author": "BBC News",
+"title": "The year 2020: A time when everything changed",
+"description": "Our planet was forced to adapt to a new reality with masks, disinfectant and - for many - queues for food.",
+"url": "http://www.bbc.co.uk/news/world-us-canada-55353178",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BFE6/production/_116162194_covidplanetv2.jpg",
+"publishedAt": "2020-12-18T22:52:18.6899672Z",
+"content": "Nick BryantNew York correspondent@NickBryantNYon Twitter\r\nMy mum called it. Long before planes had been grounded. Long before hospitals became places to fear. Long before 2020 had become a byword for… [+10023 chars]"
+}
+]
+}
+]
